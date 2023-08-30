@@ -10,15 +10,15 @@ const Success = () => {
                     <div className="text-2xl font-bold">
                         Thanks for shopping with us!
                     </div>
-                    <div className="text-lg font-bold mt-2">
+                    <div className="mt-2 text-lg font-bold">
                         Your order has been placed successfully.
                     </div>
-                    <div className="text-base mt-5">
+                    <div className="mt-5 text-base">
                         For any product related query, drop an email to
                     </div>
                     <div className="underline">shoeshopcontact@shop.com</div>
 
-                    <Link href="/" className="font-bold mt-5">
+                    <Link href="/" className="mt-5 font-bold">
                         Continue Shopping
                     </Link>
                 </div>
